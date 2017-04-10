@@ -15,7 +15,7 @@ where 'Skater' could be replaced by any other video title
 >> demo_benchmark for the whole benchmark
 
 *************************************************************************
-******** Please cite our paper. Thanks. ********************
+----------------- Please cite our paper. Thanks. ------------------
 B. Ma, L. Huang, J. Shen, L. Shao, M.-H. Yang, and F. Porikli, 
 Visual tracking under motion blur, 
 IEEE Trans. on Image Processing, 25(12):5867-5876, 2016
